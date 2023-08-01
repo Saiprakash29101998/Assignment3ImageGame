@@ -1,0 +1,23 @@
+.tab-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+  padding: 0px;
+}
+.tab-button {
+  border: none;
+  padding: none;
+  background-color: transparent;
+  font-family: Roboto;
+  font-size: 12px;
+  color: #ffffff;
+  margin: 5px;
+  padding-bottom: 8px;
+  cursor: pointer;
+}
+.selected {
+  color: #fec653;
+  border-bottom: 2px solid #fec653;
+}

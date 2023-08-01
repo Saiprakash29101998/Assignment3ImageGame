@@ -1,0 +1,18 @@
+.image-container {
+  width: 80px;
+  padding: 0px;
+  margin: 4px;
+  list-style-type: none;
+}
+.button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  padding: 0px;
+  margin: 0px;
+}
+.thumbnail {
+  width: 80px;
+  padding: 0px;
+  margin: 0px;
+}
